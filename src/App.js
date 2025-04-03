@@ -40,7 +40,13 @@ function App() {
       <img src="/explored_map.png" alt="Explored map" className="img-responsive" width="50%" height="80%" />
       <img src="/Golden_map.jpg" alt="Golden map" className="img-responsive" width="50%" height="80%" />
       </section> 
-
+      
+{/* Food contet */}
+<section id="food">
+  <h2> Food </h2>
+  <p>India has a rich and diverse food culture, with a wide variety of cuisines available to its residents. Some of the most popular foods in India include: Dosa, Pav Bhaji, Panner Tikka, and Vadapav.</p> 
+  <img src="food.png" alt="food" width="50%" height="50" /> 
+</section>
         
       <section id="explore">
       <h2>Explore</h2>
